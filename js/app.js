@@ -33,7 +33,7 @@ Enemy.prototype.update = function(dt) {
               player.sprite = 'images/rocket-ship.png';
               player.x = 200;
               player.y = 400;
-            }, 3000);
+            }, 500);
     }
 };
 
